@@ -10,14 +10,13 @@
 #### 1. Coding :
 
 ##### a. Front-end :
-
 - Strengthen my intermediate level in HTML & CSS
 - Get the advanced profile in HTML & CSS
 - Be introduced to JS & JQuery
 - Get the intermediate profile in JS & JQuery
 
 ##### b. Back-end :
-- Discover the console and Git
+ - Discover the console and Git
 - Be able to use github
 - Get the intermediate profile in Git
 - Discover Ruby and Rails
@@ -30,7 +29,12 @@
 #### 2. Design :
 
 ##### a. Graphic :
--
+- Learn the basics in interface graphic standard
+- Make graphic interface for product Design
+- Be able to decline a branding
+
+##### b. UX Design :
+- Learn craftsmen methodology
 
 # Accomplishment
 
