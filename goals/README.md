@@ -7,9 +7,30 @@
 
 # Apprenticeship Goals
 
+#### 1. Coding :
+
+##### a. Front-end :
+
+- Strengthen my intermediate level in HTML & CSS
+- Get the advanced profile in HTML & CSS
+- Be introduced to JS & JQuery
+- Get the intermediate profile in JS & JQuery
+
+##### b. Back-end :
 - Discover the console and Git
 - Be able to use github
+- Get the intermediate profile in Git
+- Discover Ruby and Rails
+- Get the intermediate profile in Ruby
 
+##### c. Other :
+- Learn Arduino
+- Make at least one Arduino project
+
+#### 2. Design :
+
+##### a. Graphic :
+-
 
 # Accomplishment
 
