@@ -6,4 +6,6 @@
 
 # Apprenticeship Goals
 
+* Learn how to use the console, and its advantages.
+
 # Fears
