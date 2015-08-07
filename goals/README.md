@@ -38,11 +38,23 @@
 
 # Accomplishment
 
-#### 1. First Week : ####
-
+#### 1. First Week :
 - Learn how to use the console, and its advantages.
 - Learn Git basics and know how to use github.
 - Learn how to use markdown.
 
-
 # Fears
+
+#### Overall
+ I'm afraid about not making graphic design during my Apprenticeship as craftsmen methodology sounds very different from classical agency way of working. I want to know how to code. But I also want to achieve my education through cutting-edge production.
+
+ Also I'm afraid about what I should be considered like when I'll end my education. How should I call myself ? A UX Designer ? A Graphic one ? Or a Coder ?
+
+#### 1. Code :
+- I'm afraid of not being as fast as I should with the program.
+- I'm afraid about forgetting what I've learn as fast as I was taught about.
+- I'm afraid of not being credible as a coder in front of developers. Thanks god, I know how to play with my silly-girl image to learn tips from those guys.
+
+#### 2. Design :
+- I'm afraid of not being considered as a graphic Designer
+- I'm afraid about starting to work on a project and being inefficient for graphic design purposes. Or worst being bad.
