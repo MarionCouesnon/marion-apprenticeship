@@ -8,9 +8,9 @@ Resources:
 * Git Trail at https://github.com/craftsmen/trails/blob/master/git.md
 
 Goals:
-* Understand the markdown format
-* Running commands
-* Moving around the file system
-* Create and merge branches
-* Open and close pull requests
-* Write good commits messages
+- [x] Understand the markdown format
+- [x] Running commands
+- [x] Moving around the file system
+- [x] Create and merge branches
+- [x] Open and close pull requests
+- [x] Write good commits messages

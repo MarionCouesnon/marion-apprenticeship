@@ -11,12 +11,12 @@ Resources:
 
 
 Goals:
-* Use a semantic HTML markup.
-* Understand the box model.
-* Understand floating and positioning.
-* Style text.
-* Quickly build a simple layout.
-* Use Web Inspector efficiently.
-* Set and use variables.
-* Use Scss nested selectors.
-* Understand [Craftsmen's Sass guidelines](https://github.com/craftsmen/guides/tree/master/style#sass)
+- [ ] Use a semantic HTML markup.
+- [ ] Understand the box model.
+- [ ] Understand floating and positioning.
+- [ ] Style text.
+- [ ] Quickly build a simple layout.
+- [ ] Use Web Inspector efficiently.
+- [ ] Set and use variables.
+- [ ] Use Scss nested selectors.
+- [ ] Understand [Craftsmen's Sass guidelines](https://github.com/craftsmen/guides/tree/master/style#sass)
