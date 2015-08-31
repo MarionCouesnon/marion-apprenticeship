@@ -4,8 +4,8 @@ projects.
 
 The goals are:
 
-- [ ] Create and use mixins.
-- [ ] Set and use variables.
-- [ ] Use nested selectors.
-- [ ] Use `@include` and `@extend`.
+- [x] Create and use mixins.
+- [x] Set and use variables.
+- [x] Use nested selectors.
+- [x] Use `@include` and `@extend`.
 - [ ] Understand [Craftsmen's Sass guidelines](https://github.com/craftsmen/guides/tree/master/style#sass)
