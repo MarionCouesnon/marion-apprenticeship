@@ -3,8 +3,8 @@ You should at least explore two ways of showing content in different branches, a
 You also should end reading apprenticeship patterns book.
 
 The main goals are:
-- [ ] Ship a first version of your blog
-- [ ] Get used to Neat grid & bourbon mixins in a concrete project
-- [ ] Use Git commands, create branches & pull requests
-- [ ] Understand & follow Craftsmen's Sass guidelines
-- [ ] Finish reading apprenticeship patterns
+- [x] Ship a first version of your blog
+- [x] Get used to Neat grid & bourbon mixins in a concrete project
+- [x] Use Git commands, create branches & pull requests
+- [x] Understand & follow Craftsmen's Sass guidelines
+- [x] Finish reading apprenticeship patterns
