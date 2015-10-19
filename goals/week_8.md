@@ -4,6 +4,6 @@ You'll realize that nothing in this UI is very fancy. It appears unexceptional. 
 Great designs achieve their goals and nothing else. They’re not flashy for the sake of being flashy, and they don’t conform for the sake of conforming. Great designs know what they’re for. They have a sense of purpose, they serve it well, and they know what doesn’t belong.
 
 The main goals are:
-- [ ] Build a copy of Twitter interface (only HTML / CSS, no JavaScript)
-- [ ] Pratice git branches when building twitter UI and create Pull Requests
-- [ ] Read [CSS Protips on GitHub](https://github.com/AllThingsSmitty/css-protips?utm_source=CSS-Weekly&utm_campaign=Issue-183&utm_medium=email#use-max-height-for-pure-css-sliders)
+- [x] Build a copy of Twitter interface (only HTML / CSS, no JavaScript)
+- [x] Pratice git branches when building twitter UI and create Pull Requests
+- [x] Read [CSS Protips on GitHub](https://github.com/AllThingsSmitty/css-protips?utm_source=CSS-Weekly&utm_campaign=Issue-183&utm_medium=email#use-max-height-for-pure-css-sliders)
