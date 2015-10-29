@@ -27,8 +27,8 @@ Resources:
   discussion regarding style guides and where they fit into the design/development process. The whole episode and podcast is great though.)
 
 Goals:
-- [ ] Understand what Atomic Design means.
-- [ ] Understand the difference between a component and a pattern.
-- [ ] Understand BEM naming convention and how it relates to the topic.
-- [ ] Understand *The Good, the Bad and the Ugly* in UI frameworks like Bootstrap or Foundation.
-- [ ] Take your favorite website, identify the UI components by doing an interface inventory. Judge it's design.
+- [x] Understand what Atomic Design means.
+- [x] Understand the difference between a component and a pattern.
+- [x] Understand BEM naming convention and how it relates to the topic.
+- [x] Understand *The Good, the Bad and the Ugly* in UI frameworks like Bootstrap or Foundation.
+- [x] Take your favorite website, identify the UI components by doing an interface inventory. Judge it's design.
